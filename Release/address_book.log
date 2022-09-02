@@ -1,0 +1,18 @@
+﻿  DeletionForm.cpp
+  MenuForm.cpp
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\MenuForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  NewContactForm.cpp
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\NewContactForm.cpp(97,20): warning C4018: <: несоответствие типов со знаком и без знака
+  RedactForm.cpp
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\RedactForm.cpp(138,20): warning C4018: <: несоответствие типов со знаком и без знака
+  SearchForm.cpp
+  fun.cpp
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\fun.cpp(48,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\fun.cpp(77,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\fun.cpp(106,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\fun.cpp(135,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\fun.cpp(164,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\fun.cpp(462,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  DeletionForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  address_book.vcxproj -> C:\Ivan\WorkPrograms\vis_prog\address_book\Release\address_book.exe

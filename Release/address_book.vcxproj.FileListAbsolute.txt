@@ -1,0 +1,7 @@
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\Release\addressbook.DeletionForm.resources
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\Release\addressbook.MenuForm.resources
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\Release\addressbook.NewContactForm.resources
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\Release\addressbook.RedactForm.resources
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\Release\addressbook.SearchForm.resources
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\Release\address_book.vcxproj.GenerateResource.cache
+C:\Ivan\WorkPrograms\vis_prog\address_book\address_book\Release\address_book.vcxproj.AssemblyReference.cache
